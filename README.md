@@ -1,3 +1,11 @@
+# Identifying Information
+
+1. Kyle Wynne
+2. 2367120
+3. kwynne@chapman.edu
+4. CPSC 298
+5. Cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
